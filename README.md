@@ -1,2 +1,3 @@
 # Azure-Project
-This is a simple website made for Future Ready Talent Internship.
+This is very basic and simple website for Surtaj Guitars. Surtaj Guitars is an imaginary Company Founded by me last month.
+Currently this website is not purely responsive. But I'm working on it.
