@@ -243,6 +243,7 @@ header {
 .services-list {
     list-style: none;
     display: flex;
+    margin-top: 2.5rem;
     max-width: 100%;
     flex-direction: column;
     line-height: 6rem;
