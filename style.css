@@ -260,7 +260,7 @@ header {
     background: rgb(29, 153, 202);
     background-position: center;
     padding: 0.2rem;
-    border-top: dashed black 3px;
+    border-top: dashed black 2px;
 }
 
 #products {
