@@ -73,6 +73,7 @@ header {
     align-items: center;
     position: fixed;
     top: 0;
+    font-style: italic;
     background-color: #29323c;
     background: linear-gradient(to top, #29323c, #485563);
     height: 1rem;
